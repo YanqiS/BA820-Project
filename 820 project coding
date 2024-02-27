@@ -1,1 +1,6 @@
+## **Problem Statement & Motivations**
+Airbnb, a leading lodging platform with millions of unique listings worldwide, captures our interest as Boston University students, particularly for its Boston area listings. Our project aims to tackle challenges of deciphering the factors that contribute to a listing's success and understanding the natural grouping using unsupervised machine learning. By analyzing the extensive and diverse dataset, we seek to uncover patterns and trends that can inform better decision-making for hosts and improve the overall experience for customers.
 
+##**Dataset**
+Dataset Source: http://insideairbnb.com/get-the-data/
+We will be using “Listings” and “Reviews” tables from the Boston data section on the website, providing a thorough overview of Boston's Airbnb listings. It includes information on accommodation types, prices, descriptions, and reviews in addition to geographic data.
